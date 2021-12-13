@@ -6,3 +6,4 @@
 ## GitHub
 
 * [Admin Meetings](github/admin-meetings.md)
+* [Tasks & Issues](github/tasks-and-issues.md)
