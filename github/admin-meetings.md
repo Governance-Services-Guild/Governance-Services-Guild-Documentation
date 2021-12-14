@@ -32,5 +32,5 @@ On the _Catalyst-Circle-Coordination Project Board_ ([link](https://github.com/C
 
 ![](../.gitbook/assets/2021-12-14.png)
 
-Filters can be cleared by clicking the cross inside the _Filter Cards_ dialog box at the top of the screen.
+Filters can be cleared by clicking the cross inside the _Filter Cards_ dialog box at the top of the screen. For more detail on filtering GitHub Project Boards see [here](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/tracking-work-with-project-boards/filtering-cards-on-a-project-board).
 
