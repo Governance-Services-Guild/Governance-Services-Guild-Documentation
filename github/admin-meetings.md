@@ -20,11 +20,11 @@ Admin meetings are recorded as GitHub Issues an example of this can be seen [her
 
 An admin meeting standup goes round each member and asks -
 
-What progress
+What have you done ?
 
-What status
+What are you planning to do ?&#x20;
 
-What blocks them
+What blocking you ?
 
 ### Filtering Issue Cards
 
