@@ -10,7 +10,7 @@
 
 * [CC Admin Team members](roles-and-responsibilities/roles-and-responsibilities.md)
 
-## GitHub
+## Tools GitHub
 
-* [Admin Meetings](github/admin-meetings.md)
-* [Tasks & Issues](github/tasks-and-issues.md)
+* [Admin Meetings](tools-github/admin-meetings.md)
+* [Tasks & Issues](tools-github/tasks-and-issues.md)
