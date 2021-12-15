@@ -14,4 +14,4 @@
 
 ## Roles and Responsibilities
 
-* [Roles and Responsibilities](roles-and-responsibilities/roles-and-responsibilities.md)
+* [CC Admin Team members](roles-and-responsibilities/cc-admin-team-members.md)
