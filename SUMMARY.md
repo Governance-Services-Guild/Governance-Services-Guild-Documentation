@@ -11,3 +11,7 @@
 ## Introduction
 
 * [Introduction and Background](introduction/introduction-and-background.md)
+
+## Roles and Responsibilities
+
+* [Roles and Responsibilities](roles-and-responsibilities/roles-and-responsibilities.md)
