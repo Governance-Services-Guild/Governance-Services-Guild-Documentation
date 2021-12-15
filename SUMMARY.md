@@ -1,12 +1,6 @@
 # Table of contents
 
 * [Circle-Admin-Playbook](README.md)
-* [Overview](overview.md)
-
-## GitHub
-
-* [Admin Meetings](github/admin-meetings.md)
-* [Tasks & Issues](github/tasks-and-issues.md)
 
 ## Introduction
 
@@ -14,4 +8,9 @@
 
 ## Roles and Responsibilities
 
-* [CC Admin Team members](roles-and-responsibilities/cc-admin-team-members.md)
+* [CC Admin Team members](roles-and-responsibilities/roles-and-responsibilities.md)
+
+## GitHub
+
+* [Admin Meetings](github/admin-meetings.md)
+* [Tasks & Issues](github/tasks-and-issues.md)
