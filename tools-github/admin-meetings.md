@@ -14,6 +14,8 @@ Admin meetings are recorded as GitHub Issues an example of this can be seen [her
 
 ![](<../.gitbook/assets/Circle Admin Meetings.png>)
 
+To raise an Admin Meeting Issue please use the template provided [here ](https://github.com/Catalyst-Circle/Catalyst-Circle-Coordination/issues/new/choose)
+
 ## Stand ups
 
 ### Overview
