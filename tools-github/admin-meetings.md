@@ -18,6 +18,12 @@ Admin meetings are recorded as GitHub Issues an example of this can be seen [her
 
 To raise an Admin Meeting Issue please use the template provided [here ](https://github.com/Catalyst-Circle/Catalyst-Circle-Coordination/issues/new/choose)
 
+### Recording progress using the Admin Issue
+
+Please use the Meeting Issue (not Google docs) to record progress and integrate with Project Board standups. This is what ties everything together. Click on the the three dots on the top right of the Issue to edit the markdown during the Admin meeting.
+
+![](../.gitbook/assets/2021-12-17.png)
+
 ## Stand ups
 
 ### Overview
