@@ -22,3 +22,10 @@ F7: Miscellaneous Challenge
 
 [CC Admin Team Scope Expansion](https://cardano.ideascale.com/c/idea/384245)
 
+## Catalyst Circle Treasury Management
+
+F7: Miscellaneous Challenge
+
+[Catalyst Circle Treasury Management](https://cardano.ideascale.com/c/idea/38328)
+
+&#x20;
