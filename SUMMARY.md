@@ -14,3 +14,7 @@
 
 * [Admin Meetings](tools-github/admin-meetings.md)
 * [Tasks & Issues](tools-github/tasks-and-issues.md)
+
+## Group 1
+
+* [Proposals](group-1/proposals.md)
