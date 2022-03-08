@@ -2,9 +2,11 @@
 description: 'F7: Miscellaneous Challenge'
 ---
 
-# F7 : CCv3: Sustaining the Circle
+# Fund 7 Proposals
 
-F7: Miscellaneous Challenge
+CCv3: Sustaining the Circle
+
+Miscellaneous Challenge
 
 [CCv3: Sustaining the Circle](https://cardano.ideascale.com/c/idea/384250)
 

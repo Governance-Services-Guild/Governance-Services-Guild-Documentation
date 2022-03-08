@@ -18,4 +18,4 @@
 
 ## Proposals
 
-* [F7 : CCv3: Sustaining the Circle](proposals/f7-ccv3-sustaining-the-circle.md)
+* [Fund 7 Proposals](proposals/fund-7-proposals.md)
