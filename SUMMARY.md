@@ -5,6 +5,7 @@
 ## Introduction
 
 * [Introduction](introduction/introduction.md)
+* [Circle Admin Team](introduction/circle-admin-team.md)
 
 ## Roles and Responsibilities
 
