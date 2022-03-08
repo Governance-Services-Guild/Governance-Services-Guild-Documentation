@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Circle-Admin-Playbook](README.md)
+* [Circle Admin Playbook](README.md)
 
 ## Introduction
 
