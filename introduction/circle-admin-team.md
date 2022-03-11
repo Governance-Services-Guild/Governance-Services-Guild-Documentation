@@ -16,5 +16,5 @@ The Catalyst Circle Admin Team is made up of Cardano community members who have 
 * Provide administrative support to Circle members by facilitating interaction with the broader community.
 
 {% hint style="info" %}
-Section owned by -
+Section owned by - Peter
 {% endhint %}
