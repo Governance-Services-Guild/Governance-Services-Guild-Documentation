@@ -23,7 +23,3 @@
 ***
 
 * [Page 1](page-1.md)
-
-## Section Name
-
-* [New Page](section-name/new-page.md)
