@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Circle Admin Playbook](README.md)
+* [Custom Governance Admin Services](README.md)
 
 ## Introduction
 
