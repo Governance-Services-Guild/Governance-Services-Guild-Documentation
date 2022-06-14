@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Cardano Governance Services](README.md)
+* [Our Team](our-team.md)
 
 ## Introduction
 
