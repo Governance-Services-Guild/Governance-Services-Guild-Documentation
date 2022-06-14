@@ -1,12 +1,12 @@
-# Custom Governance Admin Services
+# Cardano Governance Services
 
 ## Overview&#x20;
 
-Custom Governance Admin Services can assist with&#x20;
+Cardano Governance Services is a network of individuals with a broad range of experience in the Blockchain governance, administration and project management.&#x20;
 
-Adminstartion of your project
+We provide a nonpartisan and pluralistic approach.
 
-
+We do not prescribe or require particular ways of working. Rather we seek to acomodate a range of appraoches.&#x20;
 
 
 
