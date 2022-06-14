@@ -7,7 +7,7 @@ coverY: 0
 
 ## Overview&#x20;
 
-Cardano Governance Services is a network of individuals with a broad range of experience in the Blockchain governance, administration and project management.&#x20;
+Cardano Governance Services is a network of individuals with a broad range of experience in Blockchain governance, administration and project management.&#x20;
 
 {% hint style="info" %}
 We provide a nonpartisan and pluralistic approach.
