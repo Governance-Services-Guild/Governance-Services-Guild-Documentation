@@ -14,7 +14,7 @@ We provide a nonpartisan and pluralistic approach.
 {% endhint %}
 
 {% hint style="info" %}
-We do not prescribe or require particular ways of working. Rather we seek to accommodate a range of approaches.&#x20;
+We do not prescribe or require particular ways of working. Rather we seek to accommodate and work with the a variety of cultures.&#x20;
 {% endhint %}
 
 
