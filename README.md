@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/Screenshot 2022-06-14 103121.png
+coverY: 0
+---
+
 # Cardano Governance Services
 
 ## Overview&#x20;
