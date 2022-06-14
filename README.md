@@ -17,5 +17,7 @@ We provide a nonpartisan and pluralistic approach.
 We do not prescribe or require particular ways of working. Rather we seek to accommodate and work with the a variety of cultures.&#x20;
 {% endhint %}
 
-
+{% hint style="info" %}
+We support the development and implementation of decentralised solutions.
+{% endhint %}
 
