@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Custom Governance Admin Services](README.md)
+* [Cardano Governance Services](README.md)
 
 ## Introduction
 
