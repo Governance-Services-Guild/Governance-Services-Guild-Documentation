@@ -3,21 +3,20 @@ cover: .gitbook/assets/Screenshot 2022-06-14 103357 (1).png
 coverY: 0
 ---
 
-# Cardano Governance Services
+# Governance Services Guild
 
-## Overview&#x20;
+## Overview
 
-Cardano Governance Services is a network of individuals with a broad range of experience in Blockchain governance, administration and project management.&#x20;
+The Governance Services Guild is composed of community members from diverse backgrounds. Team members include: Veteran Swarm Members, PAs, vPAs, Funded Proposers, SPOs, IdeaFest and Governance Day Hosts, & ADA Holders, Treasury, Training & Automation and Community Oversight.
 
 {% hint style="info" %}
 We provide a nonpartisan and pluralistic approach.
 {% endhint %}
 
 {% hint style="info" %}
-We do not prescribe or require particular ways of working. Rather we seek to accommodate and work with the a variety of cultures.&#x20;
+We do not prescribe or require particular ways of working. Rather we seek to accommodate and work with the a variety of cultures.
 {% endhint %}
 
 {% hint style="info" %}
 We support the development and implementation of decentralised solutions.
 {% endhint %}
-
