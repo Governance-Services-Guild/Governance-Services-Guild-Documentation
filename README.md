@@ -11,6 +11,10 @@ Cardano Governance Services Guild is a network of individuals with a broad range
 
 Our goal is to offer nonpartisan and pluralistic services to a variety of groups and teams within the broader Cardano ecosystem. We seek to accommodate and work with a wide variety of individuals, groups, and communities from a diverse range of geographical and cultural backgrounds.&#x20;
 
+{% content-ref url="our-team.md" %}
+[our-team.md](our-team.md)
+{% endcontent-ref %}
+
 {% hint style="info" %}
 We provide a nonpartisan and pluralistic approach.
 {% endhint %}
