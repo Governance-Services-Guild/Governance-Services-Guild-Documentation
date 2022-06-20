@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/Screenshot 2022-06-14 103357 (1).png
+cover: .gitbook/assets/Screenshot 2022-06-14 103357.png
 coverY: 0
 ---
 

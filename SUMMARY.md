@@ -6,11 +6,6 @@
 ## Introduction
 
 * [Introduction](introduction/introduction.md)
-* [Circle Admin Team](introduction/circle-admin-team.md)
-
-## Roles and Responsibilities
-
-* [CC Admin Team members](roles-and-responsibilities/roles-and-responsibilities.md)
 
 ## Tools GitHub
 
