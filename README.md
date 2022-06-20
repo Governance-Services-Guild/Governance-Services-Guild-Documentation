@@ -11,18 +11,10 @@ Cardano Governance Services Guild is a network of individuals with a broad range
 
 Our goal is to offer nonpartisan and pluralistic services to a variety of groups and teams within the broader Cardano ecosystem. We seek to accommodate and work with a wide variety of individuals, groups, and communities from a diverse range of geographical and cultural backgrounds.&#x20;
 
-{% content-ref url="our-team.md" %}
-[our-team.md](our-team.md)
-{% endcontent-ref %}
+## What we offer
 
-{% hint style="info" %}
-We provide a nonpartisan and pluralistic approach.
-{% endhint %}
+The Guild  is a supporting service and is focused on getting teams successfully prepared to govern their projects. We do not dictate or decide the approach taken but rather facilitate  processes and provide options and suggestions, as well as educational programs and “best in-practice” knowledge transfer. We believe that this approach will allow the Guild to remain impartial and not affiliated with any one group, while providing bespoke governance services to those groups that need them.
 
-{% hint style="info" %}
-We do not prescribe or require particular ways of working. Rather we seek to accommodate and work with the a variety of cultures.
-{% endhint %}
+### No one sized solution for all projects
 
-{% hint style="info" %}
-We support the development and implementation of decentralised solutions.
-{% endhint %}
+It is important to understand that there is no one sized solution for all projects. What we are offering is a convenient place to commission governance, administration, and project management support at a competitive cost. Depending on their development and backgrounds, projects may need more targeted, hands-on support while others may only need tools and resources which they will implement themselves. The benefits of having such a network is that all projects can find the appropriate level of services they need.&#x20;
