@@ -17,7 +17,3 @@
 
 * [Fund 7 Proposals](proposals/fund-7-proposals.md)
 * [Fund 9 Proposals](proposals/fund-9-proposals.md)
-
-***
-
-* [Page 1](page-1.md)
