@@ -7,10 +7,10 @@
 
 * [Introduction](introduction/introduction.md)
 
-## Tools GitHub
+## Project Management
 
-* [Admin Meetings](tools-github/admin-meetings.md)
-* [Tasks & Issues](tools-github/tasks-and-issues.md)
+* [Weekly Calls](project-management/admin-meetings.md)
+* [Tasks & Issues](project-management/tasks-and-issues.md)
 
 ## Proposals
 
