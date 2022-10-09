@@ -15,6 +15,7 @@
 ## Proposals
 
 * [Fund 7 Proposals](proposals/fund-7-proposals.md)
+* [Fund 8 Proposals](proposals/fund-8-proposals.md)
 
 ***
 
