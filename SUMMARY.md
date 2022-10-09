@@ -9,7 +9,8 @@
 
 ## Project Management
 
-* [Weekly Calls](project-management/admin-meetings.md)
+* [Weekly Calls](project-management/admin-meetings/README.md)
+  * [October 2022](project-management/admin-meetings/october-2022.md)
 * [Tasks & Issues](project-management/tasks-and-issues.md)
 
 ## Proposals
