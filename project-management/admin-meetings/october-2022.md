@@ -26,9 +26,13 @@ description: Weekly Call Agendas for October 2022
 
 {% embed url="https://docs.google.com/document/d/1ZZ_tSMb0Yitaz87wJFgJftx8pht5Rp6dRHqQfHMlPm8/edit?usp=sharing" %}
 
+### Meeting 3 - 17th October 2022
 
+[Link to Google Doc](https://docs.google.com/document/d/1d50nh\_9Q02k-EaG8W60I-eZJsJX0mg8Z6tRwqy1lKAo/edit?usp=sharing)
 
+{% hint style="info" %}
+**Chair** : Nori / **Notes** : Andre&#x20;
+{% endhint %}
 
-
-
+{% embed url="https://docs.google.com/document/d/1d50nh_9Q02k-EaG8W60I-eZJsJX0mg8Z6tRwqy1lKAo/edit?usp=sharing" %}
 
