@@ -20,6 +20,10 @@ description: Weekly Call Agendas for October 2022
 
 [Link to Google Doc](https://docs.google.com/document/d/1ZZ\_tSMb0Yitaz87wJFgJftx8pht5Rp6dRHqQfHMlPm8/edit?usp=sharing)&#x20;
 
+{% hint style="info" %}
+**Chair** / **Notes** : Stephen Whitenstall
+{% endhint %}
+
 {% embed url="https://docs.google.com/document/d/1ZZ_tSMb0Yitaz87wJFgJftx8pht5Rp6dRHqQfHMlPm8/edit?usp=sharing" %}
 
 
