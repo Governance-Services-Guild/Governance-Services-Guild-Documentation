@@ -10,6 +10,7 @@
 ## Project Management
 
 * [Weekly Calls](project-management/admin-meetings/README.md)
+  * [Weekly Meeting Chair and Note Taker Schedule](project-management/admin-meetings/weekly-meeting-chair-and-note-taker-schedule.md)
   * [October 2022](project-management/admin-meetings/october-2022.md)
 * [Tasks & Issues](project-management/tasks-and-issues.md)
 
