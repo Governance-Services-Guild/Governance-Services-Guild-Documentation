@@ -44,5 +44,7 @@ description: Weekly Call Agendas for October 2022
 
 ### Meeting 5 - 31st October 2022
 
+Link to the Google Doc
 
+{% embed url="https://docs.google.com/document/d/1A4OuB9qu08uIl_prD22EA9Hg3PR1JrOkemjIPbWN3uA/edit?usp=sharing" %}
 
