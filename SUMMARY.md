@@ -16,6 +16,6 @@
 
 ## Proposals
 
-* [Fund 7 Proposals](proposals/fund-7-proposals.md)
+* [Overview](proposals/fund-7-proposals.md)
 * [Fund 9 Proposals](proposals/fund-9-proposals.md)
   * [Governance Services Guild Tools](proposals/fund-9-proposals/governance-services-guild-tools.md)
