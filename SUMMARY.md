@@ -18,4 +18,5 @@
 
 * [Overview](proposals/fund-7-proposals.md)
 * [Governance Services Guild Tools](proposals/fund-9-proposals.md)
-  * [Governance Services Guild Tools](proposals/fund-9-proposals/governance-services-guild-tools.md)
+  * [Fund 9 Proposal](proposals/fund-9-proposals/fund-9-proposal.md)
+  * [Closing Report](proposals/fund-9-proposals/closing-report.md)
