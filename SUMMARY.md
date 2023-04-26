@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Governance Services Guild](README.md)
+* [Governance Guild](README.md)
 * [Our Team](our-team.md)
 
 ## Introduction
