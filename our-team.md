@@ -6,7 +6,17 @@ description: Meet the people who contribute to Cardano Governance Services
 
 Alphabetical by First Name
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><h2>Nori Nishigaya</h2></td><td></td></tr><tr><td></td><td></td><td><h2>Nadim Karam</h2></td></tr><tr><td></td><td></td><td><h2>Jonathan Postnikoff (JP) </h2></td></tr><tr><td></td><td><h2>Peter Wolcott</h2></td><td></td></tr><tr><td><h2></h2></td><td><h2>Stephen Whitenstall</h2></td><td></td></tr><tr><td><h2>Felix Weber</h2></td><td></td><td></td></tr><tr><td>Andre</td><td></td><td></td></tr><tr><td>Miro</td><td></td><td></td></tr><tr><td>Vanessa</td><td></td><td></td></tr></tbody></table>
+| Name                     | Experience                                                                                                                                                                                                                                     |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Nori Nishigaya           | Nori Nishigaya is the Founder of the Salmon Nation Decentralized Alliance (SANADA) and co-founder of Bridge Builders.                                                                                                                          |
+| Nadim Karam              | Nadim is an enterprise consultant in the blockchain space; specializing in DAOs, DeFi, and decentralized identity.                                                                                                                             |
+| Jonathan Postnikoff (JP) | JP has been a member of the Cardano Community since December 2020 and has been active in Catalyst since Fund4. Originally beginning as a Swarm member.                                                                                         |
+| Peter Wolcott            |                                                                                                                                                                                                                                                |
+| Stephen Whitenstall      | Co Founder of Quality-Assurance DAO, https://quality-assurance-dao.github.io/ , Circle V2 representative for funded proposers. Funded proposer in Funds 5 to 9.                                                                                |
+| Felix Weber              | Co Founder & Somehow leader at the Catalyst Swarm. Recruited the participating members as Treasurers, Facilitators & Secretaries to the Catalyst Circle in CCv1, since then, supporting & advising the Team on its way forward                 |
+| Andre                    | Joined the Catalyst Circle Admin team as treasurer in Nov 2021 and has expanded this role by starting the Treasury Guild alongside Miroslav to support projects in the Catalyst community as well.                                             |
+| Vanessa                  |                                                                                                                                                                                                                                                |
+| Miro                     | has 20 years of experience in managing finances and organizing the business of NGOs and the University. He also worked as a Human Resources Manager (HRM). Joined the Catalyst Circle Admin team together with Andre as treasurer in Nov 2021. |
 
 ## Nori Nishigaya
 
