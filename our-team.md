@@ -6,7 +6,7 @@ description: Meet the people who contribute to Cardano Governance Services
 
 Alphabetical by First Name
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><h2>Nori Nishigaya</h2></td><td></td></tr><tr><td></td><td></td><td><h2>Nadim Karam</h2></td></tr><tr><td></td><td></td><td><h2>Jonathan Postnikoff (JP) </h2></td></tr><tr><td></td><td><h2>Peter Wolcott</h2></td><td></td></tr><tr><td><h2></h2></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><h2>Nori Nishigaya</h2></td><td></td></tr><tr><td></td><td></td><td><h2>Nadim Karam</h2></td></tr><tr><td></td><td></td><td><h2>Jonathan Postnikoff (JP) </h2></td></tr><tr><td></td><td><h2>Peter Wolcott</h2></td><td></td></tr><tr><td><h2></h2></td><td><h2>Stephen Whitenstall</h2></td><td></td></tr><tr><td><h2>Felix Weber</h2></td><td></td><td></td></tr><tr><td>Andre</td><td></td><td></td></tr><tr><td>Miro</td><td></td><td></td></tr><tr><td>Vanessa</td><td></td><td></td></tr></tbody></table>
 
 ## Nori Nishigaya
 
