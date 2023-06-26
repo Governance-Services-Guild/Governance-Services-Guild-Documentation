@@ -159,7 +159,7 @@ Avoid taking screenshots or photos of your seed phrase: If you do need to store 
 
 Keep it separate from other personal information: Avoid writing down your seed phrase on any document that contains your personal information, like your ID or passport.
 
-Video Links on wallets
+### Video Links on wallets
 
 Below is a series of links that will show you how to create and use these wallets:
 
@@ -181,7 +181,7 @@ Nami Wallet
 
 [https://www.youtube.com/watch?v=dpfjKtLrucg](https://www.youtube.com/watch?v=dpfjKtLrucg)
 
-Multisig Wallets
+### Multisig Wallets
 
 Multisig wallets operate by requiring multiple signatures or approvals from designated users before a transaction can be executed.
 
@@ -193,7 +193,7 @@ The process works as follows: **Creation:** When creating a multisig wallet, the
 
 **Validation:** The network verifies the signatures and executes the transaction if it is valid. This added layer of security provided by multisig wallets helps to prevent unauthorized or accidental spending of funds and can be useful for managing collective funds in organizations or groups.
 
-How to use a Multisig wallet?
+### How to use a Multisig wallet?
 
 Here are the steps to use a multisig wallet:
 
@@ -209,7 +209,7 @@ Here are the steps to use a multisig wallet:
 
 The network verifies the signatures and executes the transaction if it is valid. It is important to note that the specific steps and details for using a multisig wallet can vary depending on the wallet provider and the underlying blockchain platform. Users should carefully review the instructions provided by their wallet provider and make sure they understand the process before using a multisig wallet.
 
-Cardano wallet support Multisig wallet?
+### Cardano wallet support Multisig wallet?
 
 It is important to note that the specific features and support for multisig wallets can vary among different Cardano wallet providers. Users should carefully review the features offered by each wallet and make sure that it meets their specific needs and requirements before using it.
 
@@ -221,7 +221,8 @@ Here are links to the wallet and tutorial.
 
 [https://roundtable.adaodapp.xyz](https://roundtable.adaodapp.xyz/)
 
-Hardware Wallets\
+### Hardware Wallets
+
 A hardware wallet is a physical device used for storing and managing cryptocurrency assets offline, providing a secure solution for protecting one's investments. Cardano is supported by a range of hardware wallets, including:
 
 **Ledger Nano X:** A popular hardware wallet offering support for multiple cryptocurrencies, including Cardano, with secure storage and easy transactions through a mobile or desktop app.
