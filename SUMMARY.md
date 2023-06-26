@@ -8,6 +8,7 @@
 * [Project Based Learning](project-based-learning/introduction.md)
 * [Decision Making PBL](project-based-learning/decision-making-pbl.md)
 * [Page 1](project-based-learning/page-1.md)
+* [Code of Conduct PBL](project-based-learning/code-of-conduct-pbl.md)
 
 ## Project Management
 
