@@ -3,9 +3,11 @@
 * [Governance Guild](README.md)
 * [Our Team](our-team.md)
 
-## Introduction
+## Project Based Learning
 
-* [Project Based Learning](introduction/introduction.md)
+* [Project Based Learning](project-based-learning/introduction.md)
+* [Decision Making PBL](project-based-learning/decision-making-pbl.md)
+* [Page 1](project-based-learning/page-1.md)
 
 ## Project Management
 
