@@ -12,7 +12,7 @@ Proposal: [https://cardano.ideascale.com/c/idea/64343](https://cardano.ideascale
 [Dework Task & structure provided by Nori Nishigaya](https://app.dework.xyz/gsg/pbl-learning-materia?taskId=6bf97465-b4ac-428b-ade2-5db20ceb1de3)
 {% endhint %}
 
-#### Chapter 1: Onboarding and Introduction to Decision Making <a href="#_gl05fsh6a51y" id="_gl05fsh6a51y"></a>
+## Chapter 1: Onboarding and Introduction to Decision Making <a href="#_gl05fsh6a51y" id="_gl05fsh6a51y"></a>
 
 Welcome to the first chapter of the Governance Guild curriculum! In this chapter, we aim to provide you with a solid understanding of the fundamentals of decision-making. We'll start by introducing the course and its objectives, followed by an exploration of decision-making in decentralized spaces. We'll also discuss the importance of good decision-making and provide examples of both successful and unsuccessful decision-making in various contexts.
 
@@ -20,7 +20,7 @@ Add: Video of one of us welcoming people to the course to give it a human face r
 
 Discussion: Go to the course forum and introduce yourself. Why are you interested in this course? What do you hope to get out of it? What groups and communities do you represent?
 
-**Section 1.1: Intro to Decision-Making Content**
+### **Section 1.1: Intro to Decision-Making Content**
 
 Decision-making is a crucial aspect of any organization or community, as it directly influences the actions taken, resource allocation, and the overall direction of the group.
 
@@ -30,7 +30,7 @@ As you progress through the course, we encourage you to actively participate in 
 
 In the next section, we'll provide an orientation to the course, including the syllabus, objectives, and other essential information to help you get started on your decision-making journey.
 
-**Section 1.2: Getting Started / Orientation**
+### **Section 1.2: Getting Started / Orientation**
 
 Welcome to Section 1.2 of the Governance Guild curriculum! In this section, we'll help you get oriented with the course and provide essential information to set you up for success throughout your decision-making journey.
 
@@ -51,7 +51,7 @@ Add:
 
 Preparations for the course (add from pedagogic perspective)
 
-**Section 1.3: Decision Making in Decentralized Spaces**
+### **Section 1.3: Decision Making in Decentralized Spaces**
 
 Decentralized spaces present unique challenges and opportunities when it comes to decision-making. In contrast to centralized systems, where decision-making authority is concentrated in a single individual or a small group of individuals, decentralized systems distribute decision-making power across all members of a group or organization. This approach can lead to more equitable and inclusive outcomes, as it encourages diverse perspectives and ensures that everyone's voice is heard.
 
@@ -61,15 +61,15 @@ One key challenge in decentralized decision-making is achieving a balance betwee
 
 Another challenge is managing conflicts that arise from differing opinions and priorities among group members. In decentralized spaces, it is crucial to develop conflict resolution processes that are fair, transparent, and inclusive. This might involve establishing clear communication channels, setting up mediation processes, and providing training on conflict resolution for members.
 
-**Section 1.4: Why Good Decision-Making Matters**
+### **Section 1.4: Why Good Decision-Making Matters**
 
 Good decision-making is critical for the success and sustainability of any group or organization. Effective decision-making processes can lead to better resource allocation, increased productivity, and more cohesive and collaborative teams. Conversely, poor decision-making can result in wasted resources, internal conflicts, and, ultimately, the failure of the organization.
 
-#### Chapter 2: Exploring Different Forms of Decision Making <a href="#_72mnedlq53lz" id="_72mnedlq53lz"></a>
+## Chapter 2: Exploring Different Forms of Decision Making <a href="#_72mnedlq53lz" id="_72mnedlq53lz"></a>
 
 In this chapter, we'll dive deeper into the various forms of decision-making that exist in different organizations and communities. We'll introduce you to different decision-making systems, discuss their strengths and weaknesses, and provide you with resources to learn more about each system. Additionally, you'll have the opportunity to experiment with different decision-making styles within your own group and share your experiences with others.
 
-**Section 2.1: Introduction to Different Forms of Decision Making**
+### **Section 2.1: Introduction to Different Forms of Decision Making**
 
 Some common decision-making models include:
 
@@ -81,11 +81,11 @@ Some common decision-making models include:
 
 By examining these different decision-making models, organizations can better understand the advantages and drawbacks of each approach and make informed choices about which model best aligns with their goals, values, and needs. In the following sections, we will delve deeper into different forms of decision making, providing resources and examples to further your understanding of these models.
 
-**Section 2.2: Different Forms of Decision Making**
+### **Section 2.2: Different Forms of Decision Making**
 
-**Section 2.3: Strengths and Weaknesses of Different Decision-Making Systems**
+### **Section 2.3: Strengths and Weaknesses of Different Decision-Making Systems**
 
-**Autocratic decision making**
+#### **Autocratic decision making**
 
 Autocratic decision making is a form of decision making where a single person, often a leader or manager, makes decisions without seeking input from others. This top-down approach is characterized by centralized control, and the decision-maker is solely responsible for the outcomes of their choices.
 
@@ -101,7 +101,7 @@ Disadvantages of Autocratic Decision Making:
 2. Decreased motivation and morale: Team members may feel disempowered and resentful if they are excluded from the decision-making process, leading to decreased motivation, job satisfaction, and morale.
 3. Resistance to change: Autocratic decision making can make it difficult to implement change, as team members may resist decisions that they do not feel invested in or do not fully understand.
 
-**Democratic decision making**
+#### **Democratic decision making**
 
 Democratic decision making is a decision-making model that involves reaching decisions based on majority vote. This approach is characterized by its inclusivity, as it seeks to include the perspectives of all members of the group or organization. By allowing everyone to participate in the decision-making process, democratic decision making can foster a sense of ownership and shared responsibility.
 
@@ -117,7 +117,7 @@ Disadvantages of Democratic Decision Making:
 2. Risk of groupthink: Democratic decision making may inadvertently lead to groupthink, a phenomenon where the desire for harmony and conformity can lead to poor decision-making outcomes, as dissenting opinions are suppressed.
 3. Exclusion of minority viewpoints: Decisions made based on majority vote may not always accommodate the needs and concerns of minority viewpoints, potentially leading to dissatisfaction and disengagement among those who do not agree with the majority decision.
 
-**Consensus Decision Making**
+#### **Consensus Decision Making**
 
 Consensus decision making is a collaborative decision-making model that aims to reach a decision that is acceptable to all group members. This approach emphasizes active listening, open communication, and the willingness to compromise in order to achieve a collective agreement that takes into account the needs and concerns of all participants.
 
@@ -133,7 +133,7 @@ Disadvantages of Consensus Decision Making:
 2. Risk of stagnation: In some cases, consensus decision making can result in decision paralysis, where the group is unable to reach an agreement due to irreconcilable differences or the unwillingness of members to compromise.
 3. Dominance of vocal individuals: In consensus decision-making processes, more assertive or vocal members may inadvertently dominate the discussion, potentially skewing the outcome in favor of their views and undermining the intended inclusivity of the process.
 
-**Delegated Decision Making**
+#### **Delegated Decision Making**
 
 Delegated decision making is a decision-making model that involves assigning decision-making authority to specific individuals or sub-groups within the organization. This approach aims to balance the need for efficiency and expertise while maintaining some degree of collaboration and input from the broader group.
 
@@ -149,7 +149,7 @@ Disadvantages of Delegated Decision Making:
 2. Accountability concerns: Delegating decision-making authority can create concerns about accountability and responsibility, as it may be unclear who is ultimately responsible for the outcomes of the decisions made by the delegated individuals or sub-groups.
 3. Potential for siloed thinking: Delegated decision making may lead to siloed thinking and a lack of coordination between different sub-groups, which could result in decisions that are not aligned with the overall goals and objectives of the organization.
 
-**Liquid democracy**
+#### **Liquid democracy**
 
 Liquid democracy decision making is a decision-making model that combines elements of direct democracy and representative democracy, allowing individuals to either vote directly on issues or delegate their voting power to trusted representatives. This approach aims to create a more flexible and responsive democratic system that adapts to the varying levels of expertise and interest among the electorate.
 
@@ -167,7 +167,7 @@ Disadvantages of Liquid Democracy Decision Making:
 
 Quiz: Make a short quiz (maybe 10 questions?) asking students about the main ideas behind each of the decision making systems explained above
 
-**Section 2.4: Trying Decision-Making Styles with Your Group**
+### **Section 2.4: Trying Decision-Making Styles with Your Group**
 
 Experimenting with different decision-making styles in your group can provide valuable insights into which approaches work best for your unique context and needs. By trying out various decision-making models, your group can identify the strengths and weaknesses of each approach, and make informed choices about the most effective methods for achieving your goals and objectives.
 
@@ -186,25 +186,25 @@ We highly recommend reaching out to well trained and experienced facilitators wh
 
 Homework: Talk about your experience with exploring different decision making styles in the course forum.
 
-#### Chapter 3: Deep Dives into Specific Decision-Making Systems <a href="#_p1nhcj5flw9m" id="_p1nhcj5flw9m"></a>
+## Chapter 3: Deep Dives into Specific Decision-Making Systems <a href="#_p1nhcj5flw9m" id="_p1nhcj5flw9m"></a>
 
 This chapter focuses on a select few decision-making systems that have proven to be effective in various contexts. We'll provide a more in-depth exploration of each system, including the Advice Process, Facilitated Consent Process, and Miro-facilitated Voting. By the end of this chapter, you'll have a deeper understanding of these systems and how they can be applied to your own group or organization.
 
-**Section 3.1: Intro to Decision Making Deep Dives**
+### **Section 3.1: Intro to Decision Making Deep Dives**
 
 In the world of decision making, there are a variety of models and processes that have been developed to address different contexts, needs, and challenges. To gain a deeper understanding of these approaches and how they can be effectively applied in your group or organization, it's essential to explore some of the most prominent decision-making systems in greater detail. These deep dives will provide valuable insights into the underlying principles, practical applications, and potential benefits of each decision-making model.
 
 In this chapter, we will be introducing several decision-making systems that have gained significant attention and adoption across various domains. These systems include the Advice Process, Facilitated Consent Process, and Liquid Democracy, among others. By delving into the specifics of each approach, you'll be better equipped to determine which decision-making styles best align with your group's needs, goals, and preferences.
 
-**Section 3.2: The Advice Process**
+### **Section 3.2: The Advice Process**
 
 The Advice Process is a decision-making model that emphasizes the importance of seeking input and feedback from others before making a decision. While this approach may seem intuitive, it is often underutilized or overlooked in many decision-making contexts. In this deep dive, we will explore some lesser-known aspects and practical applications of the Advice Process that can enhance its effectiveness in your group or organization.
 
-**The origin of the Advice Process:**
+#### **The origin of the Advice Process:**
 
 The Advice Process traces its roots back to the management philosophy of self-organization, which has been popularized by companies like Semco, a Brazilian manufacturing company, and later adopted by other organizations, including Morning Star and Zappos. These companies have implemented variations of the Advice Process to encourage decentralized decision-making and empower employees at all levels of the organization.
 
-**The Advice Process in practice:**
+#### **The Advice Process in practice:**
 
 In the Advice Process, decision-makers are responsible for seeking advice from individuals who will be affected by the decision and those who possess relevant knowledge or expertise. This advice-seeking process should be genuine, with the decision-maker actively engaging in conversation, asking clarifying questions, and considering alternative perspectives. Ultimately, the decision-maker remains accountable for the final decision, but the process ensures that a diverse range of inputs and perspectives are taken into account.
 
@@ -218,7 +218,7 @@ Disadvantages:
 * Can be time-consuming, particularly for complex decisions with many stakeholders involved.
 * Relies on the decision-maker's ability to genuinely seek and consider advice, which may be challenging for some individuals.
 
-**The role of trust and psychological safety:**
+#### **The role of trust and psychological safety:**
 
 The effectiveness of the Advice Process depends on a high degree of trust and psychological safety within the group or organization. When individuals feel comfortable sharing their opinions, concerns, and ideas openly, the quality of the advice received and the resulting decisions are likely to improve. Fostering a culture of trust and psychological safety can be achieved through transparency, active listening, and respecting different viewpoints.
 
@@ -232,7 +232,7 @@ Disadvantages:
 * Building trust and psychological safety requires ongoing effort and commitment from all members of the group or organization.
 * May be difficult to achieve in larger organizations or in environments with high turnover rates.
 
-**The importance of feedback loops:**
+#### **The importance of feedback loops:**
 
 An essential aspect of the Advice Process is the presence of feedback loops that allow for continuous learning and improvement. After a decision is made, decision-makers should gather feedback on the outcomes and consequences of their decision, using this information to inform future decision-making processes. This iterative approach helps ensure that the group or organization is consistently learning from its experiences and refining its decision-making practices.
 
@@ -245,7 +245,7 @@ Disadvantages:
 
 * Requires a commitment to regularly gathering and acting on feedback, which can be time-consuming and resource-intensive.
 
-**Adapting the Advice Process to different contexts:**
+#### **Adapting the Advice Process to different contexts:**
 
 The Advice Process can be adapted to a variety of decision-making contexts and group sizes. For example, in smaller groups, the Advice Process may involve more informal and direct communication, while larger organizations may require more structured and formalized advice-seeking methods, such as surveys or designated feedback channels.
 
@@ -259,7 +259,7 @@ Disadvantages:
 * Adapting the Advice Process may require trial and error, as well as a willingness to iterate and evolve the approach over time.
 * The effectiveness of the adapted process may vary depending on the unique dynamics and challenges of each group or organization.
 
-**Section 3.3: Facilitated Consent Process**
+### **Section 3.3: Facilitated Consent Process**
 
 The Facilitated Consent Process, also known as Generative Decision Making, is a collaborative and inclusive approach to decision-making that focuses on creating a shared understanding and obtaining consent from all group members. In this essay, we will explore the key principles, applications, and challenges of the Facilitated Consent Process, providing a comprehensive overview of this innovative decision-making model.
 
@@ -293,11 +293,11 @@ Add a video about either Advice Process or Generative Consent to add some human 
 
 Homework: try one or more of these or discuss in forums why or why you would not try advice process or facilitated consent in your group.
 
-**Section 3.4: Miro-facilitated Voting**
+### **Section 3.4: Miro-facilitated Voting**
 
 This might be a great chapter to create a video for the whole thing with Tevo showing how people vote on a selected set of sticky notes and how to set that up, how to get the results, and how that all works.
 
-#### Chapter 4: Contributing to the Governance Guild Curriculum <a href="#_uofg5hav1gox" id="_uofg5hav1gox"></a>
+## Chapter 4: Contributing to the Governance Guild Curriculum <a href="#_uofg5hav1gox" id="_uofg5hav1gox"></a>
 
 Perhaps this section can cover our Discord server, how someone might join the Governance Guild, and how to participate in improving this course or adding new content. Make it less of content we provide, but ways for students to participate. Assignments can be:
 
@@ -308,7 +308,7 @@ Perhaps this section can cover our Discord server, how someone might join the Go
 
 In the final chapter of this course, we'll shift our focus to your contributions to the Governance Guild curriculum. We value your feedback and suggestions for improving the course, as well as your participation in governance discussions. Here, you'll have the opportunity to share your thoughts, propose new modules or changes to existing ones, and collaborate with others to refine the course materials.
 
-**Section 4.1: Providing Feedback and Suggestions**
+### **Section 4.1: Providing Feedback and Suggestions**
 
 Effective decision-making relies on the continuous improvement of processes and the refinement of decisions based on feedback from stakeholders. Providing feedback and suggestions is crucial for organizations and groups, as it allows them to identify areas of improvement, recognize successful practices, and adjust their decision-making processes accordingly.
 
@@ -335,7 +335,7 @@ Disadvantages:
 
 By understanding the importance of feedback and suggestions in decision-making and governance, as well as the benefits and challenges associated with different methods of collecting feedback, organizations and groups can implement strategies to effectively gather and incorporate stakeholder input into their decision-making processes.
 
-**Section 4.2: Participating in Governance Discussions**
+### **Section 4.2: Participating in Governance Discussions**
 
 Community governance refers to the systems and processes through which decisions are made and implemented at the community level. Engaging in community governance can take various forms, including participating in local meetings, joining committees or working groups, contributing to online discussions, and collaborating on projects or initiatives. Active involvement in community governance is vital for fostering a sense of ownership, responsibility, and commitment among stakeholders, as well as ensuring that decisions are made in a transparent, democratic, and inclusive manner.
 
@@ -355,7 +355,7 @@ Disadvantages:
 * Power dynamics: Existing power imbalances within a community may influence the decision-making process, potentially leading to the exclusion or marginalization of certain groups or perspectives.
 * Complexity: Navigating the complexities of community governance and decision-making processes can be daunting, particularly for individuals or organizations with limited experience or knowledge in this area.
 
-**Section 4.3: Proposing New Modules or Changes to Existing Ones**
+### **Section 4.3: Proposing New Modules or Changes to Existing Ones**
 
 Keep in mind that whatever decision model you will design and implement into your project, your project evolves and so does its need for adjustments of your decision making model.
 
@@ -379,6 +379,6 @@ When looking on proposal processes, keep in mind that this approach requires
 
 Dedicated meetings in which team members are able to communicate envisioned improvements. Such meetings
 
-**Section 4.4: Collaborative Course Improvement**
+### **Section 4.4: Collaborative Course Improvement**
 
 We should have a survey or form for students to provide feedback for the course here
