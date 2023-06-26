@@ -267,7 +267,7 @@ Here is a list of a few trusted exchanges.
 
 CEX suggestions and pros/cons
 
-**Pros of storing crypto on a centralized exchange:**
+### **Pros of storing crypto on a centralized exchange:**
 
 **Convenience:** Centralized exchanges are easy to use and accessible for people who are new to crypto.
 
