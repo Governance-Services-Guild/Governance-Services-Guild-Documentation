@@ -64,22 +64,20 @@ Overall, it's important to carefully consider the risks and trade-offs of keepin
 
 In the context of blockchain technology, "metadata" refers to data about data. In the case of Cardano, metadata might include information such as the date and time of a transaction, the address of the sender and recipient, and the amount of Ada (the native cryptocurrency of the Cardano network) transferred. This metadata is stored on the blockchain and can be used to provide transparency and accountability in transactions.
 
-\
-How to add Metadata in a transaction?\
-
+### How to add Metadata in a transaction?
 
 In the Cardano blockchain, Metadata is stored on-chain as a string of data that is associated with a specific transaction or block. To add metadata to a transaction, you can include it as an additional parameter when building the transaction. Metadata is useful for tracing transactions in reverse.
 
 It is also important to note that you can also add Metadata to a block, on Cardano there is an option called "Block Apertures" which allows for adding metadata to the blocks. However, this feature is only accessible for "Shelley" and "Goguen" era blocks and requires a node operator to allow for it, enabling the aperture size on their nodes.
 
-Stablecoin?\
-\
+### Stablecoin?
+
 Stablecoins are digital assets that are pegged to the value of a specific currency or asset, such as the US dollar. Cardano is a decentralised blockchain platform that enables the development and execution of smart contracts and decentralised applications.
 
 It is possible to create and use stablecoins on the Cardano blockchain, but it would require the development of a smart contract to implement the functionality. The Cardano community also has several projects which are working on creating stablecoins on the Cardano blockchain.
 
-What are Exchanges?\
-\
+### What are Exchanges?
+
 A cryptocurrency exchange, or digital currency exchange (DCE), is a business that allows customers to trade cryptocurrencies or digital currencies for other assets, such as conventional fiat money, or different digital currencies. They can be market makers that typically take the bid-ask spreads as transaction commissions for their services or simply charge fees as a matching platform. Most cryptocurrency exchanges are designed to accept a variety of payment methods, including bank transfers, credit/debit cards, and even cash. Some exchanges are also used to facilitate trading of digital assets such as Bitcoin, Ethereum, Cardano…
 
 We have two types of exchanges:\
