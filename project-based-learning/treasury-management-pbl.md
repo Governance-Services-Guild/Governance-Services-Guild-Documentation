@@ -139,7 +139,7 @@ Send ADA: To send ADA, you will need to click on the browser extension icon, the
 
 Keep in mind that browser extensions do not have the same level of security as hardware wallets or software wallets installed on a personal computer, so you should always be careful when using them and not store large amounts of ADA in them.
 
-Keeping your seed phrases safe
+### Keeping your seed phrases safe
 
 Here are some best practices for storing the seed phrase of your Cardano wallet:
 
