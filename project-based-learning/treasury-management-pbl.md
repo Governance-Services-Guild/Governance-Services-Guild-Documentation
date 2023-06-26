@@ -323,7 +323,7 @@ These are just a few examples of the DEXs available on Cardano. There may be oth
 
 ### Accounting
 
-**Keeping track of your funds**
+#### **Keeping track of your funds**
 
 Now that you got funded, you will need to keep track of your funds and determine how many more instalments you will receive. IOG will send a notification via Telegram when they have disbursed funds. The message will include the transaction id numbers and the exchange rate used for the disbursement.
 
@@ -351,7 +351,7 @@ It is essential to track the funds received for your project in order to ensure 
 
 [https://miro.com/app/board/uXjVP5B9gl0=/](https://miro.com/app/board/uXjVP5B9gl0=/)
 
-Creating Invoices
+### Creating Invoices
 
 When receiving funds for your proposal, you will need to create an invoice that your accountant can use to prove where the money came from. Here is an example of an invoice with all the necessary fields.
 
@@ -359,7 +359,7 @@ When receiving funds for your proposal, you will need to create an invoice that 
 
 [Links to an external site.](https://docs.google.com/spreadsheets/d/10ULo0qSpnL7iJ1sb-VcxKuJV5gHkdozXQyLjgu5SO-I/edit?usp=sharing)
 
-Tools that can help with taxes
+### Tools that can help with taxes
 
 Cryptocurrency tracking and tax reporting tools are software applications designed to help users track their cryptocurrency investments, transactions, and calculate their tax obligations. Some of the most popular tools include:
 
@@ -381,11 +381,11 @@ These tools offer a variety of features and integrations, making it easier for u
 
 [Links to an external site.](https://cointracking.info/)
 
-How to mitigate loss due to volatility
+### How to mitigate loss due to volatility
 
 Because of the volatile nature of cryptocurrency, it is recommended to convert received funds into a stablecoin or to pay contributors at the time of fund release. In order to do this with minimal loss, it is important to plan ahead and determine who will be paid and how much will be converted into stablecoin before the funds are released by IOG
 
-Creating a Legal Entity
+### Creating a Legal Entity
 
 If you created a brand new organisation and need help on compliance with local regulations, here are some resources that can help with that.
 
@@ -393,11 +393,12 @@ If you created a brand new organisation and need help on compliance with local r
 * **Closing report:** [https://drive.google.com/file/d/19VJfrY3jvCr5a5cu8gUTE\_T9XErYhlQN/view](https://drive.google.com/file/d/19VJfrY3jvCr5a5cu8gUTE\_T9XErYhlQN/view)
 * **Closing video:** https://vimeo.com/733677745
 
-### **Specializing** <a href="#_pdoyt7e4w725" id="_pdoyt7e4w725"></a>
+## **Specializing** <a href="#_pdoyt7e4w725" id="_pdoyt7e4w725"></a>
 
 [**Specializing Video**](https://drive.google.com/file/d/1KXsaWykQsXM2jBeHzqhrlM2W7bl47JmM/view?usp=sharing)
 
-What is treasury management?\
+### What is treasury management?
+
 Treasury management refers to the corporate process of managing an organization's financial resources, including managing cash, liquidity, and funding sources, as well as handling financial risks and exposures. It involves activities such as cash management, risk management, and investment management to help companies optimize their financial performance.
 
 Treasury management involves various activities such as:
