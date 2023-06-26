@@ -291,10 +291,9 @@ It is best practice to store your crypto in your crypto wallet and only move it 
 
 **Ratings for coinbase:** [https://www.trustradius.com/products/coinbase/reviews?qs=pros-and-cons#overview](https://www.trustradius.com/products/coinbase/reviews?qs=pros-and-cons#overview)
 
-**Binance Rating:** [https://www.trustradius.com/products/binance/reviews#overview\
-](https://www.trustradius.com/products/binance/reviews#overview)
+**Binance Rating:** [https://www.trustradius.com/products/binance/reviews#overview](https://www.trustradius.com/products/binance/reviews#overview)
 
-Converting your ADA to stablecoin on a Cardano Dex
+### Converting your ADA to stablecoin on a Cardano Dex
 
 To convert your ADA to a stablecoin using a decentralized exchange (DEX) built on the Cardano blockchain, you will need to follow these basic steps:
 
