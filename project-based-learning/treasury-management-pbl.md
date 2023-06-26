@@ -80,8 +80,8 @@ It is possible to create and use stablecoins on the Cardano blockchain, but it w
 
 A cryptocurrency exchange, or digital currency exchange (DCE), is a business that allows customers to trade cryptocurrencies or digital currencies for other assets, such as conventional fiat money, or different digital currencies. They can be market makers that typically take the bid-ask spreads as transaction commissions for their services or simply charge fees as a matching platform. Most cryptocurrency exchanges are designed to accept a variety of payment methods, including bank transfers, credit/debit cards, and even cash. Some exchanges are also used to facilitate trading of digital assets such as Bitcoin, Ethereum, Cardanoâ€¦
 
-We have two types of exchanges:\
-\
+### We have two types of exchanges:
+
 Centralized exchanges (CEX) and Decentralized exchanges (DEX)
 
 The main difference between a centralized exchange and a decentralized exchange (DEX) is how they operate and the level of control that users have over their funds. Centralized exchanges (CEX) are operated by a central authority, such as a company.
@@ -102,15 +102,15 @@ Some of the DEXes on Cardano: Minswap, SundaeSwap, MuesliSwap, WingRiders, etcâ€
 
 Keep in mind that different exchanges may have different trading pairs, fees, and security measures, so it's important to do your own research and choose the exchange that best meets your needs.
 
-### **Building Background Knowledge** <a href="#_t03gjawqlks4" id="_t03gjawqlks4"></a>
+## **Building Background Knowledge** <a href="#_t03gjawqlks4" id="_t03gjawqlks4"></a>
 
 [**Building Background Knowledge Video**](https://drive.google.com/file/d/1GG-3eFbbN5v8YXek42-X73pwHJJKw5hR/view?usp=sharing)
 
-Using the funding
+### Using the funding
 
 In order to receive funds you will need a Cardano wallet. Here is a list of a few trusted wallets used on Cardano.
 
-Wallets
+### Wallets
 
 * [https://eternl.io](https://eternl.io/)
 * [https://daedaluswallet.io/](https://daedaluswallet.io/)
@@ -119,8 +119,7 @@ Wallets
 * [https://namiwallet.io/](https://namiwallet.io/)
 * [https://typhonwallet.io](https://typhonwallet.io/#/)
 
-\
-Opening a wallet
+### Opening a wallet
 
 Here are the basic steps you would need to take in creating a Cardano wallet:
 
