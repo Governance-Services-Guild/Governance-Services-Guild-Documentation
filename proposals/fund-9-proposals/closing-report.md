@@ -16,7 +16,7 @@ Part of the [F9: DAOs <3 Cardano](https://cardano.ideascale.com/c/campaigns/333/
 
 Project started: October 2022
 
-Project completed: May 2023
+Project completed: June 2023
 
 ## The voting
 
