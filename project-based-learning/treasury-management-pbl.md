@@ -307,7 +307,7 @@ Enter the amount of ADA you want to change to Stablecoin and review the order. W
 
 Please note that these are basic steps for converting ADA to a stablecoin using a DEX built on Cardano. Always be sure to do your own research and ensure that you are using a legitimate and reputable exchange.
 
-List of DEXs
+### List of DEXs
 
 There are several decentralized exchanges (DEXs) that can be used on the Cardano blockchain. Some examples include:
 
@@ -321,7 +321,7 @@ There are several decentralized exchanges (DEXs) that can be used on the Cardano
 
 These are just a few examples of the DEXs available on Cardano. There may be others available as well.
 
-Accounting
+### Accounting
 
 **Keeping track of your funds**
 
