@@ -21,8 +21,8 @@ coverY: 0
 
 <figure><img src=".gitbook/assets/grass.png" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="grassroots-governance-community-forums/what-are-the-forums.md" %}
-[what-are-the-forums.md](grassroots-governance-community-forums/what-are-the-forums.md)
+{% content-ref url="grassroots-governance-community-forums/what-are-the-grassroots-governance-forums.md" %}
+[what-are-the-grassroots-governance-forums.md](grassroots-governance-community-forums/what-are-the-grassroots-governance-forums.md)
 {% endcontent-ref %}
 
 {% content-ref url="project-based-learning/introduction.md" %}
