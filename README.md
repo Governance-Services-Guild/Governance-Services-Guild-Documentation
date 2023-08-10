@@ -12,3 +12,9 @@ coverY: 0
 {% content-ref url="about-us.md" %}
 [about-us.md](about-us.md)
 {% endcontent-ref %}
+
+
+
+{% content-ref url="our-team.md" %}
+[our-team.md](our-team.md)
+{% endcontent-ref %}
