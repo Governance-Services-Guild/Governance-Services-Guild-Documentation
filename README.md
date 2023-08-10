@@ -9,7 +9,9 @@ coverY: 0
 
 # Governance Guild
 
-## Vote for our Project Catalyst Fund 10 proposals
+## Vote for our Fund 10 proposals
+
+Vote for our Project Catalyst Fund 10 proposals
 
 ### Grassroots Governance Community Forums
 
