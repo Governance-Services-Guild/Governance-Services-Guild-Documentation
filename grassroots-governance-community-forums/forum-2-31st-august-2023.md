@@ -13,7 +13,7 @@ Register here: [https://us02web.zoom.us/meeting/register/tZYuc-qhrTkpH9VH8SbIAf4
 
 We’ll be unpacking the question raised at the last forum on 15th July, “What is a DAO?” followed by a choice of three guest-led breakout rooms:
 
-1. [**Photrek**](https://www.photrek.io/home) - _Sociocracy / Voting Methods_
-2. [**SingularityNet**](https://singularitynet.io/): topic TBC
-3. [**Wada**](https://www.wada.org/) - _dReps: A critique of representation based on traditional African paradigms_
+1. [**Photrek**](https://www.photrek.io/home) - _Cardano Governance: From Open Corporation to Digital Nation,_ facilitated by Kenric Nelson
+2. [**SingularityNet**](https://singularitynet.io/): _Governance Challenges and Collaborative Solutions_ - facilitators TBC
+3. [**Wada**](https://www.wada.org/) - _dReps: A critique of representation based on traditional African paradigms,_ facilitated by Mermoz Dzubang and Felicien Fotio Manfo
 
