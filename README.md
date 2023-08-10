@@ -9,6 +9,10 @@ coverY: 0
 
 # Governance Guild
 
+## Vote for our Project Catalyst Fund 10 proposals
+
+aa
+
 {% content-ref url="about-us.md" %}
 [about-us.md](about-us.md)
 {% endcontent-ref %}
@@ -21,10 +25,11 @@ coverY: 0
 
 <figure><img src=".gitbook/assets/grass.png" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="grassroots-governance-community-forums/what-are-the-grassroots-governance-forums.md" %}
-[what-are-the-grassroots-governance-forums.md](grassroots-governance-community-forums/what-are-the-grassroots-governance-forums.md)
+{% content-ref url="grassroots-governance-community-forums/what-are-the-forums.md" %}
+[what-are-the-forums.md](grassroots-governance-community-forums/what-are-the-forums.md)
 {% endcontent-ref %}
 
 {% content-ref url="project-based-learning/introduction.md" %}
 [introduction.md](project-based-learning/introduction.md)
 {% endcontent-ref %}
+
