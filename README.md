@@ -17,7 +17,15 @@ coverY: 0
 
 <figure><img src=".gitbook/assets/grass.png" alt=""><figcaption></figcaption></figure>
 
-[https://cardano.ideascale.com/c/idea/104679](https://cardano.ideascale.com/c/idea/104679)
+#### [https://cardano.ideascale.com/c/idea/104679](https://cardano.ideascale.com/c/idea/104679)
+
+### Advancing Community Governance Tooling on Andamio
+
+
+
+<figure><img src=".gitbook/assets/Screenshot from 2023-07-13 14-06-58.png" alt=""><figcaption></figcaption></figure>
+
+#### [https://cardano.ideascale.com/c/idea/105362](https://cardano.ideascale.com/c/idea/105362)
 
 {% content-ref url="about-us.md" %}
 [about-us.md](about-us.md)
