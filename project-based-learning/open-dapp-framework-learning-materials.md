@@ -6,8 +6,6 @@ saved from Canvas 17th May 2023
 
 ## 0) Overview: Introduction <a href="#_u5t5m0lf7ir6" id="_u5t5m0lf7ir6"></a>
 
-### &#x20;<a href="#_o7ca3kbzkdlo" id="_o7ca3kbzkdlo"></a>
-
 ### Background <a href="#_fibqy44xziz6" id="_fibqy44xziz6"></a>
 
 This Open dApp Framework course originated from a workshop facilitated by Tevo Saks in the summer of 2022.
@@ -24,8 +22,6 @@ A[ proposal](https://cardano.ideascale.com/c/idea/421050) was subsequently submi
 The project management of this proposal, the workshops and associated learning modules is maintained on this Miro board [https://miro.com/app/board/uXjVOs6bN2M=/](https://miro.com/app/board/uXjVOs6bN2M=/)
 
 ## 1) Introductory research session <a href="#_umscdf8zlk5l" id="_umscdf8zlk5l"></a>
-
-### &#x20;<a href="#_rsv15lhbseut" id="_rsv15lhbseut"></a>
 
 ### Overview <a href="#_1t7g84v4a6i" id="_1t7g84v4a6i"></a>
 
@@ -135,8 +131,6 @@ A project is aiming to onboard participants for a training course. Depending on 
 As you can see, the "preparation" and "evaluation" stages are often the bulk of coordination management. If work is well-planned, then the actual execution and coordination should go more smoothly; and if it is evaluated thoughtfully and the learning from it is incorporated into future work, the whole process should be easier next time.
 
 ## 2) Project Management Tools and Introduction to Task Management Session <a href="#_fwu7ssj1wk2f" id="_fwu7ssj1wk2f"></a>
-
-### &#x20;<a href="#_v5qc7lz5axpa" id="_v5qc7lz5axpa"></a>
 
 ### Overview <a href="#_szp31bxbihp" id="_szp31bxbihp"></a>
 
