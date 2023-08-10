@@ -24,3 +24,7 @@ coverY: 0
 {% content-ref url="grassroots-governance-community-forums/what-are-the-forums.md" %}
 [what-are-the-forums.md](grassroots-governance-community-forums/what-are-the-forums.md)
 {% endcontent-ref %}
+
+{% content-ref url="project-based-learning/introduction.md" %}
+[introduction.md](project-based-learning/introduction.md)
+{% endcontent-ref %}
