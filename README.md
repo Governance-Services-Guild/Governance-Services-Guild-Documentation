@@ -11,7 +11,13 @@ coverY: 0
 
 ## Vote for our Project Catalyst Fund 10 proposals
 
-aa
+### Grassroots Governance Community Forums
+
+
+
+<figure><img src=".gitbook/assets/grass.png" alt=""><figcaption></figcaption></figure>
+
+[https://cardano.ideascale.com/c/idea/104679](https://cardano.ideascale.com/c/idea/104679)
 
 {% content-ref url="about-us.md" %}
 [about-us.md](about-us.md)
@@ -20,10 +26,6 @@ aa
 {% content-ref url="our-team.md" %}
 [our-team.md](our-team.md)
 {% endcontent-ref %}
-
-
-
-<figure><img src=".gitbook/assets/grass.png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="grassroots-governance-community-forums/what-are-the-forums.md" %}
 [what-are-the-forums.md](grassroots-governance-community-forums/what-are-the-forums.md)
