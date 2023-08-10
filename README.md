@@ -13,8 +13,14 @@ coverY: 0
 [about-us.md](about-us.md)
 {% endcontent-ref %}
 
-
-
 {% content-ref url="our-team.md" %}
 [our-team.md](our-team.md)
+{% endcontent-ref %}
+
+
+
+<figure><img src=".gitbook/assets/grass.png" alt=""><figcaption></figcaption></figure>
+
+{% content-ref url="grassroots-governance-community-forums/what-are-the-forums.md" %}
+[what-are-the-forums.md](grassroots-governance-community-forums/what-are-the-forums.md)
 {% endcontent-ref %}
