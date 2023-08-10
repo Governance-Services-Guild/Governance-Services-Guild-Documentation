@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Governance Guild](README.md)
+* [About us](about-us.md)
 * [Our Team](our-team.md)
 
 ## Grassroots Governance Community Forums
