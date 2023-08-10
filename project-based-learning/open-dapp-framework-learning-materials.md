@@ -1,3 +1,7 @@
+---
+description: Tevo Saks, Vanessa Cardui & Stephen Whitenstall
+---
+
 # Open dApp Framework learning materials
 
 ### Open dApp Framework learning materials <a href="#_3w9imu7se9yx" id="_3w9imu7se9yx"></a>
