@@ -23,8 +23,6 @@ coverY: 0
 
 
 
-<figure><img src=".gitbook/assets/Screenshot from 2023-07-13 14-06-58.png" alt=""><figcaption></figcaption></figure>
-
 #### [https://cardano.ideascale.com/c/idea/105362](https://cardano.ideascale.com/c/idea/105362)
 
 {% content-ref url="about-us.md" %}
