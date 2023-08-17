@@ -19,6 +19,7 @@
 * [Decision Making PBL](project-based-learning/decision-making-pbl.md)
 * [Code of Conduct PBL](project-based-learning/code-of-conduct-pbl.md)
 * [Treasury Management PBL](project-based-learning/treasury-management-pbl.md)
+* [Dework PBL](project-based-learning/dework-pbl.md)
 * [Open dApp Framework learning materials](project-based-learning/open-dapp-framework-learning-materials.md)
 
 ## Project Management
