@@ -22,16 +22,9 @@
 * [Dework PBL](project-based-learning/dework-pbl.md)
 * [Open dApp Framework learning materials](project-based-learning/open-dapp-framework-learning-materials.md)
 
-## Project Management
+## Project Catalyst Proposals
 
-* [Weekly Calls](project-management/admin-meetings/README.md)
-  * [Weekly Meeting Chair and Note Taker Schedule](project-management/admin-meetings/weekly-meeting-chair-and-note-taker-schedule.md)
-  * [November 2022](project-management/admin-meetings/november-2022.md)
-  * [October 2022](project-management/admin-meetings/october-2022.md)
-
-## Proposals
-
-* [Overview](proposals/fund-7-proposals.md)
-* [Governance Services Guild Tools](proposals/fund-9-proposals.md)
-  * [Fund 9 Proposal](proposals/fund-9-proposals/fund-9-proposal.md)
-  * [Closing Report](proposals/fund-9-proposals/closing-report.md)
+* [Overview](project-catalyst-proposals/fund-7-proposals.md)
+* [Governance Services Guild Tools](project-catalyst-proposals/fund-9-proposals/README.md)
+  * [Fund 9 Proposal](project-catalyst-proposals/fund-9-proposals/fund-9-proposal.md)
+  * [Closing Report](project-catalyst-proposals/fund-9-proposals/closing-report.md)
