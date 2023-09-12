@@ -1,3 +1,9 @@
+---
+description: >-
+  Here's the documentation of our first Grassroots Governance Forum. You'll see
+  top-level summaries for each breakout room, with more detail in a sub-page.
+---
+
 # Forum 1: 15th July 2023
 
 ## Summaries
@@ -12,7 +18,7 @@ Top-level summary:
 4. Find your tribe, and work outwards from there.
 5. Let’s look at our similarities as well as our differences.
 
-To read the detail, see here
+To read the detail, see [here](https://catalyst-swarm.gitbook.io/governance-guild/grassroots-governance-community-forums/forum-1-15th-july-2023/breakout-room-1-detail).
 
 ***
 
@@ -40,6 +46,6 @@ Top-level summary:
 4. Importance of developing a common language, e.g. on different forms of decision-making (Next time, we need a breakout room to introduce new people to what a DAO is)
 5. Governance work is often left unfunded. How do we incentivise it? The “experts” are here, in a call like this - how do we fund that, and create real co-production with IOG/CF/Emurgo?
 
-To read the detail, see here&#x20;
+To read the detail, see [here](https://catalyst-swarm.gitbook.io/governance-guild/grassroots-governance-community-forums/forum-1-15th-july-2023/plenary-session-detail).&#x20;
 
 ***

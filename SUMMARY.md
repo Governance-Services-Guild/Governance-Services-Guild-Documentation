@@ -11,7 +11,12 @@
   * [Breakout room 1: detail](grassroots-governance-community-forums/forum-1-15th-july-2023/breakout-room-1-detail.md)
   * [Breakout room 2: detail](grassroots-governance-community-forums/forum-1-15th-july-2023/breakout-room-2-detail.md)
   * [Plenary session: detail](grassroots-governance-community-forums/forum-1-15th-july-2023/plenary-session-detail.md)
-* [Forum 2: 31st August 2023](grassroots-governance-community-forums/forum-2-31st-august-2023.md)
+* [Forum 2: 31st August 2023](grassroots-governance-community-forums/forum-2-31st-august-2023/README.md)
+  * [Breakout Room 1: From Open Corporation to Digital Nation](grassroots-governance-community-forums/forum-2-31st-august-2023/breakout-room-1-from-open-corporation-to-digital-nation.md)
+  * [Breakout room 2: dReps: A critique of representation based on traditional African paradigms](grassroots-governance-community-forums/forum-2-31st-august-2023/breakout-room-2-dreps-a-critique-of-representation-based-on-traditional-african-paradigms.md)
+  * [Breakout room 3: Governance Challenges and Collaborative Solutions](grassroots-governance-community-forums/forum-2-31st-august-2023/breakout-room-3-governance-challenges-and-collaborative-solutions.md)
+  * [Plenary session](grassroots-governance-community-forums/forum-2-31st-august-2023/plenary-session.md)
+* [Forum 3: coming soon!](grassroots-governance-community-forums/forum-3-coming-soon.md)
 
 ## Project Based Learning
 
