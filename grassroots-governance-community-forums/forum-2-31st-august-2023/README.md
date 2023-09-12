@@ -36,7 +36,7 @@ Add your own definition, or join the discussion,[ in this doc](https://docs.goog
 5. Influence (the power that you have within the community) <mark style="color:red;">**is not the same as**</mark> the number of votes you have.&#x20;
 6. How can we get the wider population to adopt this approach? Perhaps by <mark style="color:red;">**starting small**</mark>, with groups using these approaches in their own teams.
 
-### READ THE DETAIL:
+### READ THE DETAIL [HERE](https://catalyst-swarm.gitbook.io/governance-guild/grassroots-governance-community-forums/forum-2-31st-august-2023/breakout-room-1-from-open-corporation-to-digital-nation)
 
 ***
 
@@ -52,7 +52,7 @@ Add your own definition, or join the discussion,[ in this doc](https://docs.goog
 6. To determine who is knowledgeable,<mark style="color:red;">**the time someone has committed to learning**</mark> about an issue is important.
 7. <mark style="color:red;">**If Africa had continued its traditional decision-making and representation systems**</mark>, and had not adopted Western norms, things would be better.
 
-### READ THE DETAIL:
+### READ THE DETAIL [HE](https://catalyst-swarm.gitbook.io/governance-guild/grassroots-governance-community-forums/forum-2-31st-august-2023/breakout-room-2-dreps-a-critique-of-representation-based-on-traditional-african-paradigms)
 
 ***
 
@@ -66,7 +66,7 @@ Add your own definition, or join the discussion,[ in this doc](https://docs.goog
 4. There is a <mark style="color:red;">**trade-off**</mark> between the efficiency of centralised decision-making, and the ideal of engaging the community by using decentralised approaches
 5. More learning is needed, always, on how to enable frictionless and accountable decision-making - including <mark style="color:red;">**learning from how people have attempted it in the past**</mark>.
 
-### READ THE DETAIL:
+### READ THE DETAIL [HERE](https://catalyst-swarm.gitbook.io/governance-guild/grassroots-governance-community-forums/forum-2-31st-august-2023/breakout-room-3-governance-challenges-and-collaborative-solutions)
 
 ***
 
@@ -80,7 +80,7 @@ Add your own definition, or join the discussion,[ in this doc](https://docs.goog
 4. What is the <mark style="color:red;">**distinction between "the group" and "the wider community"?**</mark> Should there be a division?
 5. Can friction and dissent be <mark style="color:red;">**positive?**</mark>
 
-### READ THE DETAIL:
+### READ THE DETAIL [HERE](https://catalyst-swarm.gitbook.io/governance-guild/grassroots-governance-community-forums/forum-2-31st-august-2023/plenary-session)
 
 ***
 
