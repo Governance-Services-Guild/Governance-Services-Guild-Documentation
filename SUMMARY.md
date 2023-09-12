@@ -21,16 +21,16 @@
 ## Project Based Learning
 
 * [Project Based Learning](project-based-learning/introduction/README.md)
-  * [Decision Making PBL](project-based-learning/introduction/decision-making-pbl.md)
-  * [Code of Conduct PBL](project-based-learning/introduction/code-of-conduct-pbl.md)
-  * [Treasury Management PBL](project-based-learning/introduction/treasury-management-pbl.md)
+  * [Decision Making PBL](project-based-learning/decision-making-pbl.md)
+  * [Code of Conduct PBL](project-based-learning/code-of-conduct-pbl.md)
+  * [Treasury Management PBL](project-based-learning/treasury-management-pbl.md)
   * [Dework PBL](project-based-learning/introduction/dework-pbl.md)
   * [Open dApp Framework learning materials](project-based-learning/introduction/open-dapp-framework-learning-materials.md)
   * [Commissioning Governance Services](project-based-learning/introduction/commissioning-governance-services.md)
 
 ## Project Catalyst Proposals
 
-* [Overview](project-catalyst-proposals/fund-7-proposals.md)
+* [Overview](proposals/fund-7-proposals.md)
 * [Governance Services Guild Tools](project-catalyst-proposals/fund-9-proposals/README.md)
-  * [Fund 9 Proposal](project-catalyst-proposals/fund-9-proposals/fund-9-proposal.md)
-  * [Closing Report](project-catalyst-proposals/fund-9-proposals/closing-report.md)
+  * [Fund 9 Proposal](proposals/fund-9-proposals/fund-9-proposal.md)
+  * [Closing Report](proposals/fund-9-proposals/closing-report.md)

@@ -81,7 +81,7 @@ description: Looking at our similarities
 
 * <mark style="color:red;">**I need people around me who challenge and question me**</mark>, but in a productive way. We need to be honest enough with others to do this. I learnt that a lot in Swarm - <mark style="color:red;">**do not tell people how to govern themselves**</mark>. We set up all these Town Halls across the world, and brought the basic infrastucture - then we left, and they go on to make their own mission and values, independently. \
 
-* We need to know when to move on and leave people to it. Facilitate the set-up, then move on. <mark style="color:red;">**We need to let ourselves become obsolete**</mark>. Governance obsolence is a key of healthy governance, maybe?\
+* We need to know when to move on and leave people to it. Facilitate the set-up, then move on. <mark style="color:red;">**We need to let ourselves become obsolete**</mark>. Governance obsolescence is a key of healthy governance, maybe?\
 
 * Trying to create something that is <mark style="color:red;">**several deviations outside the bell curve**</mark> - going off into really crazy stuff is good!\
 
@@ -107,16 +107,16 @@ description: Looking at our similarities
 
 * Does this speak to learning and education? <mark style="color:red;">**How do we make our upskilling easy?**</mark> Gimbalabs PBLs are the easiest thing I have ever done in terms of learning when I wasn't deeply focused on the topic. \
 
-* With sNET, there is an issue of visibility in the rest of the ecosystem for the ambassadors program. Is it the same with Catalyst in Cardano? <mark style="color:red;">**The internal and external membranes need to be more permeable**</mark> - they need to offer services to people inside and ouside the ecosystem. This is where the governance experts are being made. To prove one’s vaue by showing it to someone else\
+* With sNET, there is an issue of visibility in the rest of the ecosystem for the ambassadors program. Is it the same with Catalyst in Cardano? <mark style="color:red;">**The internal and external membranes need to be more permeable**</mark> - they need to offer services to people inside and outside the ecosystem. This is where the governance experts are being made. To prove one’s value by showing it to someone else\
 
 * <mark style="color:red;">**Give your community a hard test**</mark>. (For example, in Catalyst originally there was no community infrastructure like After Town Halls. A few punks called Swarm picked it up; although it was hard, they delivered)\
 
 * <mark style="color:red;">**NDAs (non-disclosure agreements)**</mark> - none of the sNET Ambassadors have these, which makes it hard - they only get info when the public get it. Without being trusted with advance knowledge, they can’t make content that would actually be useful.\
 
 * <mark style="color:red;">**Why is singularityNET not popular?**</mark> I came across the Deepfunding challenges, and I said to my community they should apply, but no-one did.. I couldn’t understand why - they all apply for Catalyst!
-  * Compared to Catalyst it’s much more specific on what you can propose, and the funds are smaller, and there is already experts proposing.
+  * Compared to Catalyst it’s much more specific on what you can propose, and the funds are smaller, and there's already experts proposing.
   * And it’s not a blockchain. sNET is an AI marketplace, so it’s a smaller ecosystem, more focused, less funds available.
-  * I think some of it is the Crypto culture seing SNet just as a coin AGIX
+  * I think some of it is the Crypto culture seeing SNet just as a coin AGIX
   * Familiarity?  People know how much energy these communities require, especially if Catalyst was their first experience.  Funding in Ethereum isn't remotely like this -  it is always top-down.\
 
 * <mark style="color:red;">**The sNET Ambassador program not being very visible might be a good thing**</mark>: it’s not ready to scale, we are working on alignment. But visibility will come over time. There is a lot of content being created. We are in a good place and have time to build these mechanics that we can experiment with.
