@@ -5,6 +5,20 @@ description: >-
   management.
 cover: .gitbook/assets/Screenshot 2022-06-14 103357.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Governance Guild
