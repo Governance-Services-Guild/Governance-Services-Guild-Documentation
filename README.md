@@ -25,16 +25,9 @@ layout:
 
 ## Vote for our Project Catalyst Fund 10 proposals!
 
-### 1) [Grassroots Governance Community Forums](https://cardano.ideascale.com/c/idea/104679) (click link to read full proposal)
+### Our next event will be:&#x20;
 
-A proposal to continue to run our successful Grassroots Governance events, bringing blockchain communities together to discuss broad governance issues. \
-\
-See [here](https://catalyst-swarm.gitbook.io/governance-guild/grassroots-governance-community-forums/what-are-the-grassroots-governance-forums) what we've done so far, and vote to enable it to continue.&#x20;
-
-### 2) [Advancing Community Governance Tooling on Andamio](https://cardano.ideascale.com/c/idea/105362) (click link to read full proposal)
-
-A proposal to collaborate with Gimbalabs' _Andamio_ learning management platform to offer learning on governance issues, and experiment with the use of on-chain tools to validate learning.\
-Vote to enable more people to gain the knowledge to get involved in governance.
+the 3rd Grassroots Governance Forum. See details [here](https://catalyst-swarm.gitbook.io/governance-guild/grassroots-governance-community-forums/forum-3-coming-soon)&#x20;
 
 {% content-ref url="about-us.md" %}
 [about-us.md](about-us.md)
