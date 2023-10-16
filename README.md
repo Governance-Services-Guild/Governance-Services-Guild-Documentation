@@ -23,8 +23,6 @@ layout:
 
 # Governance Guild
 
-## Vote for our Project Catalyst Fund 10 proposals!
-
 ### Our next event will be:&#x20;
 
 the 3rd Grassroots Governance Forum. See details [here](https://catalyst-swarm.gitbook.io/governance-guild/grassroots-governance-community-forums/forum-3-coming-soon)&#x20;
