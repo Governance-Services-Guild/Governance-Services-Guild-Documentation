@@ -47,7 +47,7 @@ We discussed&#x20;
 
 INO plan to develop a standard for governance and compliance for Internet Native Organizations, which would also support DAOs. See [https://internetnative.org/about/](https://internetnative.org/about/) for more info.
 
-### READ THE DETAIL HERE
+### READ THE DETAIL [HERE](https://catalyst-swarm.gitbook.io/governance-guild/grassroots-governance-community-forums/forum-3-1st-december-2023/breakout-room-1-decentralised-treasury-management-models-and-legal-requirements)
 
 ***
 
@@ -65,7 +65,13 @@ We discussed
 * The Civics Committee
 * Key questions that the Civics Committee is currently looking at on Treasury; dReps; Incentives; and Security.
 
-### READ THE DETAIL HERE
+### READ THE DETAIL [HERE](https://catalyst-swarm.gitbook.io/governance-guild/grassroots-governance-community-forums/forum-3-1st-december-2023/breakout-room-2-community-governance-and-intersect-the-cardano-members-based-organisation)
+
+***
+
+### Plenary session:
+
+### READ THE DETAIL [HERE](https://catalyst-swarm.gitbook.io/governance-guild/grassroots-governance-community-forums/forum-3-1st-december-2023/plenary-session)
 
 ***
 
