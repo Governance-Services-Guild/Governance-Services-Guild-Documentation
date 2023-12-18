@@ -74,13 +74,3 @@ We discussed
 ### READ THE DETAIL [HERE](https://catalyst-swarm.gitbook.io/governance-guild/grassroots-governance-community-forums/forum-3-1st-december-2023/plenary-session)
 
 ***
-
-### Supporting Governance Guild
-
-If you would like to support the organising of the Grassroots Governance forums, you can donate to this wallet (<mark style="color:red;">addr coming soon</mark>).
-
-$2,000 enables the organising of an entire event, with publicity and engagement; 3 to 4 breakout rooms with paid leads; facilitation; and full documentation. $1,000 enables a smaller event.
-
-If you would like your contribution to be publicly recognised, please complete this form to associate your donation with your name: [https://forms.gle/UDiUbLVZBPeJ9o2V6](https://forms.gle/UDiUbLVZBPeJ9o2V6)
-
-We are applying for funding in Project Catalyst's forthcoming Fund 11. In the event that we are funded, we will retrospectively recognise all donors with a gift!
