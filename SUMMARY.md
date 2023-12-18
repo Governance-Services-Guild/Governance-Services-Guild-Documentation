@@ -16,7 +16,10 @@
   * [Breakout room 2: dReps: A critique of representation based on traditional African paradigms](grassroots-governance-community-forums/forum-2-31st-august-2023/breakout-room-2-dreps-a-critique-of-representation-based-on-traditional-african-paradigms.md)
   * [Breakout room 3: Governance Challenges and Collaborative Solutions](grassroots-governance-community-forums/forum-2-31st-august-2023/breakout-room-3-governance-challenges-and-collaborative-solutions.md)
   * [Plenary session](grassroots-governance-community-forums/forum-2-31st-august-2023/plenary-session.md)
-* [Forum 3: 1st December 2023](grassroots-governance-community-forums/forum-3-1st-december-2023.md)
+* [Forum 3: 1st December 2023](grassroots-governance-community-forums/forum-3-1st-december-2023/README.md)
+  * [Breakout Room 1: Decentralised Treasury Management Models and Legal Requirements](grassroots-governance-community-forums/forum-3-1st-december-2023/breakout-room-1-decentralised-treasury-management-models-and-legal-requirements.md)
+  * [Breakout Room 2: Community, Governance, and Intersect (the Cardano Members-Based Organisation)](grassroots-governance-community-forums/forum-3-1st-december-2023/breakout-room-2-community-governance-and-intersect-the-cardano-members-based-organisation.md)
+  * [Plenary session](grassroots-governance-community-forums/forum-3-1st-december-2023/plenary-session.md)
 
 ## Project Based Learning
 
