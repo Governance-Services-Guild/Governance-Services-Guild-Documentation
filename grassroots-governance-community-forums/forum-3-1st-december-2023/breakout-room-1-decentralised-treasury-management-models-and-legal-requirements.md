@@ -38,4 +38,9 @@ More insight into DAO research in Dutch corporate structure: [Decentralized Auto
 ### Best practice for treasury management:
 
 The final discussion revolved around best practices for managing a decentralized treasury.\
-Currently, the mainstream sentiment is that voters feel like their vote means nothing; therefore, having representatives is a good way to reduce micro-managing. Another notable effect is to conceal voting until the results are out. And for Sybil attacks only meaningful solution seems to be setting up a ‘Know Your Customer’ (KYC) process.
+\
+Currently, the mainstream sentiment is that voters feel like their vote means nothing; therefore, having representatives is a good way to reduce micro-managing. \
+\
+Another notable effect is to conceal voting until the results are out. \
+\
+And for Sybil attacks, the only meaningful solution seems to be setting up a ‘Know Your Customer’ (KYC) process.
